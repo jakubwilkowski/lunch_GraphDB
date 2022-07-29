@@ -24,7 +24,7 @@ jupyter-latex-envs==1.4.1
 jupyter-nbextensions-configurator==0.3.0
 lxml==4.1.1
 MarkupSafe==1.0
-mistune==0.8.3
+mistune==2.0.3
 nbconvert==5.3.1
 nbformat==4.4.0
 neo4jrestclient==2.1.1
